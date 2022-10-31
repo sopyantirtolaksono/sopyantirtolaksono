@@ -1,4 +1,4 @@
 # Hello, I'm Sopyan 👋
 
 ### ⚡️ Skills and Interests
-`Software Development`, `PHP`, `JavaScript`, `HTML`, `CSS`, `Bootstrap`, `React.js`, `Problem Solving`, `Communication`
+`Software Development`, `HTML`, `CSS`, `Bootstrap`, `JavaScript`, `jQuery`, `React.js`, `PHP`, `MySQL`, `Problem Solving`, `Communication`
