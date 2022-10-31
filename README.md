@@ -8,4 +8,4 @@
 I'm human and not a robot, I like to learn new things and I think I'm funny 😉
 
 ### ⚡️ Skills
-`Software Development`, `HTML`, `CSS`, `Bootstrap`, `JavaScript`, `jQuery`, `React.js`, `PHP`, `MySQL`, `Problem Solving`, `Communication`
+`Software Development`, `HTML`, `CSS`, `JavaScript`, `PHP`, `MySQL`, `Problem Solving`, `Communication`
